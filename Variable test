@@ -1,0 +1,2 @@
+name = "楼上小快"
+print("Hello, " + name + "!")
